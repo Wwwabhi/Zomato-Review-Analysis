@@ -13,7 +13,7 @@ Learn to analyze Zomato user reviews using natural language processing, sentimen
 - scikit-learn for their robust machine learning library, which enabled us to build and evaluate our models.
 - pandas and numpy for their powerful data manipulation and analysis capabilities.
 - matplotlib and seaborn for their excellent visualization tools, which helped us present our findings effectively.
-- All the online communities and forums for their support and resources that guided us throughout this project.
+- All the online communities and forums for their support and resources that guided me throughout this project.
 
 
 ## Features
@@ -52,11 +52,6 @@ By implementing these optimization techniques, the project's codebase remains ef
 
 - [@Wwwabhi](https://github.com/Wwwabhi)
 
-
-
-## Appendix
-
-Any additional information goes here
 
 
 ## Deployment
